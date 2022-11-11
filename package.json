@@ -1,0 +1,24 @@
+{
+  "name": "@web-astgrey/hasmoneysign",
+  "version": "1.0.0",
+  "description": "Check if a string has money sign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astgrey101/hasMoneySign.git"
+  },
+  "keywords": [
+    "money",
+    "sign",
+    "string"
+  ],
+  "author": "astgrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astgrey101/hasMoneySign/issues"
+  },
+  "homepage": "https://github.com/astgrey101/hasMoneySign#readme"
+}

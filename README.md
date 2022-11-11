@@ -1,2 +1,2 @@
 # hasMoneySign
-This is a repository for @web-astgrey/hasMoneySign npm package
+This is a repository for a @web-astgrey/hasMoneySign npm package
